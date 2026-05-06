@@ -39,13 +39,13 @@ Step - step instalasi Ubuntu Server 22.04.x LTS menggunakan VirtualBox pada Wind
    7.6 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/7a690a52-3be1-43e2-b9c5-e12f8e97caf3" />
        Arahkan ke atas dengan panah ke "enp0s3", klik enter
 
-       <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/73147817-673f-4235-af44-5b4262434f58" />
+   7.7 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/73147817-673f-4235-af44-5b4262434f58" />
        Pilih "Edit IPv4"
 
-       <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/dc9405ea-0034-4645-ad22-1cab306b4f35" />
+   7.8 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/dc9405ea-0034-4645-ad22-1cab306b4f35" />
        Pilih "Manual"
 
-       <img width="1661" height="862" alt="image" src="https://github.com/user-attachments/assets/9aebdfc6-308b-414a-a2aa-9ad7b75828ef" />
+   7.9 <img width="1661" height="862" alt="image" src="https://github.com/user-attachments/assets/9aebdfc6-308b-414a-a2aa-9ad7b75828ef" />
        Isi form seperti gambar di atas, kemudian save
 
        
