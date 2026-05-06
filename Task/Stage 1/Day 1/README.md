@@ -1,4 +1,4 @@
-<img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/5d4a2b35-ab3e-418c-a825-35c230e7a781" />**TASK WEEK 1 - DAY 1 BOOTCAMP DUMBWAYS DEVOPS BATCH 27
+**TASK WEEK 1 - DAY 1 BOOTCAMP DUMBWAYS DEVOPS BATCH 27
 **
 
 **Task 1** : Secara konsep, jelaskan apa itu DevOps dengan bahasa kalian!
