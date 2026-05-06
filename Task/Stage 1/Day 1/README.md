@@ -1,5 +1,4 @@
-**TASK WEEK 1 - DAY 1 BOOTCAMP DUMBWAYS DEVOPS BATCH 27
-**
+**TASK WEEK 1 - DAY 1 BOOTCAMP DUMBWAYS DEVOPS BATCH 27**
 
 **Task 1** : Secara konsep, jelaskan apa itu DevOps dengan bahasa kalian!
 
