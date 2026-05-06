@@ -25,7 +25,7 @@ Step - step instalasi Ubuntu Server 22.04.x LTS menggunakan VirtualBox pada Wind
 
     Pastikan ISO Image merujuk pada file ubuntu server yang telah di download, kemudian klik "finish"
 6. Virtual Machine akan selesai dibuat dan siap di jalankan, klik "Start" untuk menjalankan.
-7. Ketika VM sudah berjalan, step berikutnya adalah install dan set config ubuntu, ikuti langkah di bawah ini :
+7. Ketika VM sudah berjalan, step berikutnya adalah install dan set config ubuntu, ikuti langkah di bawah ini :<br>
    7.1 <img width="1560" height="777" alt="image" src="https://github.com/user-attachments/assets/804b8b0b-cb0a-4bd9-9a1e-b0b00caa181f" />
        Enter pada pilihan tersebut.
    7.2 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/a5cf03fb-9d21-418f-890d-ee06b6e3f64c" />
