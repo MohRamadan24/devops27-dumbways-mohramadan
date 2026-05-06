@@ -26,18 +26,19 @@ Step - step instalasi Ubuntu Server 22.04.x LTS menggunakan VirtualBox pada Wind
     Pastikan ISO Image merujuk pada file ubuntu server yang telah di download, kemudian klik "finish"
 6. Virtual Machine akan selesai dibuat dan siap di jalankan, klik "Start" untuk menjalankan.
 7. Ketika VM sudah berjalan, step berikutnya adalah install dan set config ubuntu, ikuti langkah di bawah ini :
+<br>
    7.1 <img width="1560" height="777" alt="image" src="https://github.com/user-attachments/assets/804b8b0b-cb0a-4bd9-9a1e-b0b00caa181f" />
-       Enter pada pilihan tersebut.
+       Enter pada pilihan tersebut.<br>
    7.2 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/a5cf03fb-9d21-418f-890d-ee06b6e3f64c" />
-       Pilih opsi bahasa English kemudian enter
+       Pilih opsi bahasa English kemudian enter<br>
    7.3 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/9abaa4a0-d244-44a0-b19f-4b23cc64a9f0" />
-       Pilih "Continue Without Updating" kemudia enter
+       Pilih "Continue Without Updating" kemudia enter<br>
    7.4 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/c316c642-668b-421d-9041-7c3e369a5e79" />
-       Klik Done
+       Klik Done<br>
    7.5 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/06935c0f-fd92-4bff-b8b7-db290fdc401c" />
-       Klik Dono
+       Klik Dono<br>
    7.6 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/7a690a52-3be1-43e2-b9c5-e12f8e97caf3" />
-       Arahkan ke atas dengan panah ke "enp0s3", klik enter
+       Arahkan ke atas dengan panah ke "enp0s3", klik enter<br>
 
        <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/73147817-673f-4235-af44-5b4262434f58" />
        Pilih "Edit IPv4"
