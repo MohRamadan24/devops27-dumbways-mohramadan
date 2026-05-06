@@ -71,7 +71,9 @@ Step - step instalasi Ubuntu Server 22.04.x LTS menggunakan VirtualBox pada Wind
        Setelah instalasi selesai, arah kan ke Reboot Now, kemudian enter.
    7.23 <img width="1661" height="862" alt="image" src="https://github.com/user-attachments/assets/2fa96f72-93f8-4d1b-a06a-736dd09c9aaf" />
        Tekan enter. Tunggu hingga reboot selesai.
-8. Proses instalasi ubuntu pada VirtualBox di Windows selesai. Untuk check koneksi yang digunakan. Ketik "Ping 8.8.8.8" untuk memonitor hasil ping ke google.com.
+8. Proses instalasi ubuntu pada VirtualBox di Windows selesai. Untuk check koneksi yang digunakan. Ketik "Ping 8.8.8.8" untuk memonitor hasil ping ke google.com
+   <img width="1445" height="707" alt="image" src="https://github.com/user-attachments/assets/dde2b477-5f2c-4182-905f-7d5396aa3894" />
+
   
 
 
