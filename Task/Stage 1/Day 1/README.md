@@ -43,7 +43,7 @@ Step - step instalasi Ubuntu Server 22.04.x LTS menggunakan VirtualBox pada Wind
    7.8 <img width="1516" height="862" alt="image" src="https://github.com/user-attachments/assets/dc9405ea-0034-4645-ad22-1cab306b4f35" />
        Pilih "Manual"<br><br>
    7.9 <img width="1661" height="862" alt="image" src="https://github.com/user-attachments/assets/9aebdfc6-308b-414a-a2aa-9ad7b75828ef" />
-       Isi form seperti gambar di atas, kemudian save (diisi menggunakan subnet wifi dan ping google.com)<br><br>
+       Isi form seperti gambar di atas kecuali pada gateway, gateway di atas salah, ganti menjadi 192.168.100.1, kemudian save (diisi menggunakan subnet wifi dan ping google.com)<br><br>
    7.10 <img width="1661" height="862" alt="image" src="https://github.com/user-attachments/assets/86f66119-540a-4c9a-b77e-debf8d4fb5a8" />
        Arahkan ke done, kemudian enter.<br><br>
    7.11 <img width="1661" height="862" alt="image" src="https://github.com/user-attachments/assets/defb56e1-1bc8-45b7-9242-d9512a2c7f20" />
