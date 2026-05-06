@@ -4,7 +4,7 @@
 
   DevOps ada posisi dalam suatu organisasi yang bertugas menjembatani atau menghubungkan proses kerja dari team developer dan team operational untuk mempercepat proses dari release. Dengan menerapkan metode CI/CD (Continuous Integration/Continuous Delivery), proses kerja akan saling berkesinambungan dan lebih efisien. Dengan menerapkan otomatisasi atau automation, proses kerja akan lebih efisien dengan mencegah adanya human error, dan proses menunggu pada setiap step manual. Selain itu, dengan menggunakan automation, issue dan error akan lebih cepat ditemukan yang berbading lurus dengan proses resolving issue.
 
-**Task 2** : Install Ubuntu Server 22.04.x LTS menggunakan Virtualbox/VMware/Virtualization Tool pilihan kalian dan buat step-by-step langkah instalasinya!
+**Task 2 - 4** : Install Ubuntu Server 22.04.x LTS menggunakan Virtualbox/VMware/Virtualization Tool pilihan kalian dan buat step-by-step langkah instalasinya!
 
 Step - step instalasi Ubuntu Server 22.04.x LTS menggunakan VirtualBox pada Windows.
 1. Download VirtualBox di link https://www.virtualbox.org/wiki/Downloads, pilih versi windows.
