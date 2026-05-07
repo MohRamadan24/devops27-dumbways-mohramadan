@@ -3,7 +3,10 @@
 **TASK 1** : Buat sebuah diagram sebuah jaringan komputer dengan 4 device dengan kondisi :
     - IP Class C : 192.168.4.xxx
     - CIDR Block : 192.168.4.0/24
-    
+
+<img width="2964" height="1644" alt="image" src="https://github.com/user-attachments/assets/59049826-518e-43ab-bcd5-4dc43d1dd4f1" />
+<br>
+
 **TASK 2** : Jelaskan perbedaan antara SH (Shell) dan BASH (Bourne-Again Shell)
 
 sh dan bash sama-sama shell pada sistem operasi Linux yang digunakan untuk menjalankan perintah dan script. Namun, sh merupakan shell dasar yang lebih sederhana dan dibuat untuk kompatibilitas antar sistem Unix, sedangkan bash adalah pengembangan dari sh yang memiliki fitur lebih lengkap dan modern. bash mendukung auto-completion, command history yang lebih baik, array, serta syntax scripting yang lebih fleksibel dibandingkan sh.
