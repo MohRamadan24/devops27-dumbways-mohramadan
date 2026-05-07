@@ -6,11 +6,9 @@
     
 **TASK 2** : Jelaskan perbedaan antara SH (Shell) dan BASH (Bourne-Again Shell)
 
-```
 sh dan bash sama-sama shell pada sistem operasi Linux yang digunakan untuk menjalankan perintah dan script. Namun, sh merupakan shell dasar yang lebih sederhana dan dibuat untuk kompatibilitas antar sistem Unix, sedangkan bash adalah pengembangan dari sh yang memiliki fitur lebih lengkap dan modern. bash mendukung auto-completion, command history yang lebih baik, array, serta syntax scripting yang lebih fleksibel dibandingkan sh.
 
 Dalam penggunaannya, sh biasanya dipakai untuk script sederhana yang membutuhkan kompatibilitas tinggi di berbagai sistem Unix/Linux. Sebaliknya, bash lebih sering digunakan pada Linux modern karena lebih nyaman untuk scripting kompleks dan administrasi server.
-```
 
 **TASK 3** : Buat dokumentasi/kumpulan command linux yang kalian ketahui! (Command diluar materi akan diberi nilai ++)
 
