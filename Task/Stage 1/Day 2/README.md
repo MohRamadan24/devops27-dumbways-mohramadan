@@ -1,4 +1,4 @@
-**TASK WEEK 1 - DAY 1 BOOTCAMP DUMBWAYS DEVOPS BATCH 27**
+**TASK WEEK 1 - DAY 2 BOOTCAMP DUMBWAYS DEVOPS BATCH 27**
 
 **TASK 1** : Buat sebuah diagram sebuah jaringan komputer dengan 4 device dengan kondisi :
     - IP Class C : 192.168.4.xxx
