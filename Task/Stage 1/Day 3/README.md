@@ -1,4 +1,4 @@
-**TASK WEEK 1 - DAY 1 BOOTCAMP DUMBWAYS DEVOPS BATCH 27**
+**TASK WEEK 1 - DAY 3 BOOTCAMP DUMBWAYS DEVOPS BATCH 27**
 
 **TASK 1** : Akses server menggunakan terminal (Windows Terminal/PuTTY/etc.)
 
