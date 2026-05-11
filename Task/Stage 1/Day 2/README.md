@@ -20,7 +20,7 @@ Dokumentasi command linux
 - sudo : yang berarti **superuser do**, berfungsi untuk menambahkan akses tertinggi pada command line. Beberapa command crucial memerlukan akses superuser untuk dijalankan.
 - nano : diikuti dengan lokasi dan nama file, akan membuka text editor untuk file tersebut.
 - ls : list, menampilkan daftar file dan folder dalam direktori yang sedang di buka.
-- ls la : menampilkan daftar file dan folder dalam direktori yang sedang di buka, beserta file file tersebunyi nya, hidden files memiliki ".' di awal nama file.
+- ls -la : menampilkan daftar file dan folder dalam direktori yang sedang di buka, beserta file file tersebunyi nya, hidden files memiliki ".' di awal nama file.
 - cd : change directory, untuk mengubah atau pindah direktory yang akan di manage, ".." untuk pindah ke file sebelumnya dan / untuk memisahkan.
 - sudo apt update : command untuk memberikan update untuk seluruh package atau aplikasi yang terinstall pada server.
 - chmod : mengganti akses dari sebuah file atau direktori.
