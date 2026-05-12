@@ -22,6 +22,8 @@ Steps :
 <img width="1177" height="375" alt="image" src="https://github.com/user-attachments/assets/1ab62268-b861-4b18-b08d-ef074b887979" />
 
 - Setelah di klik akan di arahkan ke halaman commit, silahkan pilih commit yang tersedia untuk mengetahui data yang telah berubah.
+<img width="1911" height="835" alt="image" src="https://github.com/user-attachments/assets/e019e4fa-6383-4cc7-ab4c-a35af8b2d558" />
+
 
 
 
