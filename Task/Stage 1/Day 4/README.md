@@ -16,7 +16,11 @@ Git adalah sistem kontrol versi yang digunakan untuk melacak perubahan pada file
 
 Steps : 
 - Masuk ke repository di github
+<img width="357" height="777" alt="image" src="https://github.com/user-attachments/assets/5e9e99f6-ab7a-472a-ba3d-504aedf9ad25" />
+
 - Jika terdapat perubahan pada isi repository, pada halaman repository akan terdapat text seperti "5 Commits", click pada text tersebut.
+<img width="1177" height="375" alt="image" src="https://github.com/user-attachments/assets/1ab62268-b861-4b18-b08d-ef074b887979" />
+
 - Setelah di klik akan di arahkan ke halaman commit, silahkan pilih commit yang tersedia untuk mengetahui data yang telah berubah.
 
 
