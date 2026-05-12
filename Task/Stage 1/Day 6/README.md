@@ -8,6 +8,8 @@ Reverse proxy bekerja dengan menjadikan server proxy sebagai mediator dalam meme
 
 **TASK 2** : Buatlah Reverse Proxy untuk aplilkasi yang sudah kalian deploy kemarin. (wayshub), untuk domain nya sesuaikan nama masing" ex: ade.xyz .
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a351e31-e897-4975-bd01-2e0a1be4efac" />
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/226b68ba-abbe-4c0e-963a-aa4239e349a0" />
+
 
 
 
